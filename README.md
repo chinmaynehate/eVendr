@@ -1,1 +1,1 @@
-# e-commerce app
+# eVendr- Effortless shopping, anytime, anywhere
